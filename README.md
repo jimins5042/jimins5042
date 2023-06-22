@@ -1,7 +1,7 @@
 <div align="center">
   
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jimin%20Github&fontSize=80&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jimin's%20Github&fontSize=80&fontColor=000000)
 
 ####  :wave: Introduction
 벡엔드 개발자를 목표로 공부하고 있습니다.  
