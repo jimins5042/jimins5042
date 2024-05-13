@@ -33,7 +33,7 @@
 
 #### :page_with_curl: Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timetable5987&langs_count=8)](https://github.com/timetable5987/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimins5042&langs_count=8)](https://github.com/jimins5042/github-readme-stats)
 
 
 </div>
