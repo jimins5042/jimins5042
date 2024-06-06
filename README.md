@@ -22,10 +22,6 @@
 
 
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2jooin1207&tag=스프링)](https://velog.io/@2jooin1207/series/%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B3%B5%EB%B6%80)
-
-<br/>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=2jooin1207)](https://velog.io/@2jooin1207) 
 
