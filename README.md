@@ -18,15 +18,6 @@
 <br/>
 
 
-### :pencil2: Study log
-
-
-
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=2jooin1207)](https://velog.io/@2jooin1207) 
-
-<br/>
-
 ### :page_with_curl: Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimins5042&langs_count=8)](https://github.com/jimins5042/github-readme-stats)
