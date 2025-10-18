@@ -4,8 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jimin's%20Github&fontSize=80&fontColor=000000)
 
 ###  :wave: Introduction
-벡엔드 개발자를 목표로 공부하고 있습니다.  
-스프링부트를 공부하고 있습니다.
+벡엔드 개발자입니다.
+간단한 화면도 개발합니다.
+인프라 구축 및 관리하는 법을 공부하고 있습니다.
 
 <br/>
 
